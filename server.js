@@ -5,4 +5,4 @@ const server = http.createServer((req, res) =>{
     console.log(req.headers);
     res.setHeader
 });
-server.listen(187);
+server.listen(80);
